@@ -1,4 +1,4 @@
-package com.neuedu.text;
+package text;
 
 public  class HourlyEmployee extends ColaEmployee {
     private int hour;

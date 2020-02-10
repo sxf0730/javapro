@@ -1,4 +1,4 @@
-package com.neuedu.text;
+package text;
 
 public  class  SalesEmployee extends ColaEmployee {
     private int sale;

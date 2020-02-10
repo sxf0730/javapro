@@ -1,4 +1,4 @@
-package com.neuedu.text;
+package text;
 
 public class I7 implements Cpu {
     public void method(){

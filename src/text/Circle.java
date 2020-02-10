@@ -1,4 +1,4 @@
-package com.neuedu.text;
+package text;
 
 public  class Circle extends Shape {
     private int radius;

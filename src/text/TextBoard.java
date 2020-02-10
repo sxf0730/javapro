@@ -1,4 +1,4 @@
-package com.neuedu.text;
+package text;
 
 public class TextBoard {
     public static void main(String[] args) {

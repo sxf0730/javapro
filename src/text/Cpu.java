@@ -1,4 +1,4 @@
-package com.neuedu.text;
+package text;
 
 public interface Cpu {
     public void method();

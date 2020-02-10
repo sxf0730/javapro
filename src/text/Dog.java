@@ -1,4 +1,4 @@
-package com.neuedu.text;
+package text;
 
 public class Dog {
 //    public static int add(int a,int b){

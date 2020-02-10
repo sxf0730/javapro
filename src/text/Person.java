@@ -1,4 +1,4 @@
-package com.neuedu.text;
+package text;
 
 public class Person extends Animal {
     private int age;

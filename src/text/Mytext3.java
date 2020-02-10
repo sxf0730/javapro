@@ -1,9 +1,10 @@
-package com.neuedu.text;
-import javax.xml.crypto.Data;
+package text;
+
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.Date;
+import java.util.LinkedList;
 import java.util.List;
+
 public class Mytext3 {
     public static void main(String[] args) {
         List arraylist=new ArrayList();
