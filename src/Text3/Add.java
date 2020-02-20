@@ -16,7 +16,7 @@ public class Add {
         } else {
             int a1=1;
             int a2=1;
-            int sum=0;
+            int sum;
             for(int i=3;i<=n;i++){
                 sum=a1+a2;
                 a1=a2;

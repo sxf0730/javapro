@@ -1,6 +1,7 @@
 package Mypractice;
 
 import Pojo.Student;
+import Web.DeptWeb;
 import Web.StudentWeb;
 
 import java.sql.Connection;
@@ -37,9 +38,26 @@ public class Newtext {
 //                e.printStackTrace();
 //            }
 //        }
-    StudentWeb studentWeb= new StudentWeb();
-    studentWeb.showmain();
-    studentWeb.input();
+//    StudentWeb studentWeb= new StudentWeb();
+//    studentWeb.showmain();
+//    studentWeb.input();
+        DeptWeb deptWeb=new DeptWeb();
+        deptWeb.showmain();
+        deptWeb.input();
+//        int[] array={1,15,12,4,64,25,14};
+//        for(int i=0;i<array.length-1;i++){
+//            for(int j=1;j<array.length-1-i;j++){
+//                if(array[j]>array[j+1]){
+//                    int a=array[j+1];
+//                    array[j+1]=array[j];
+//                    array[j]=a;
+//
+//                }
+//            }
+//        }2
+//        for(int i:array){
+//            System.out.println(i);
+//        }
     }
 
 }
